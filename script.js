@@ -87,8 +87,8 @@ const questions = [
         question: 'Which one is a JavaScript framework?',
         answers: [
             { text: 'React', correct: true },
-            { text: 'Angular', correct: false },
-            { text: 'Vue', correct: false },
+            { text: 'django', correct: false },
+            { text: 'eclipse', correct: false },
             { text: 'Laravel', correct: false }
         ]
     },
@@ -98,7 +98,7 @@ const questions = [
             { text: 'React', correct: false },
             { text: 'Angular', correct: false },
             { text: 'Vue', correct: false },
-            { text: 'JavaScript', correct: true }
+            { text: 'Java', correct: true }
         ]
     },
     {
@@ -115,7 +115,7 @@ const questions = [
         answers: [
             { text: 'React', correct: false },
             { text: 'Angular', correct: false },
-            { text: 'Vue', correct: false },
+            { text: 'javascript', correct: false },
             { text: 'MongoDB', correct: true }
         ]
     }
